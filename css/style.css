@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.subtitulos {
+    background-color: rgba(193, 92, 59, 0.792);
+    color: #005677;
+    font-family: 'Raleway';
+    font-style: normal;
+    border-radius: 1em;
+}
+
+.subtitulos2 {
+    background-color: rgba(193, 92, 59, 0.792);
+    color: #005677;
+    font-family: 'Raleway';
+    font-style: normal;
+    border-radius: 1em;
+    text-align: center;
+}
+
+#cabecera {
+    background-image: url('../img/electricidad1.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    border-radius: 1em;
+}
+
+#fotopersonal {
+    text-align: center;
+
+}
+
+#borderedondo {
+    border-radius: 1em;
+}
+
+#menusobremi {
+    background-color: rgba(193, 92, 59, 0.792);
+    text-align: center;
+    font-size: 50px;
+    border-radius: 1em;
+    color: #005677;
+}
+
+.alineado {
+    text-align: center;
+}
+
+
+.years {
+    font-weight: bold;
+}
+
+.nombre {
+    margin-left: 5px;
+    display: inline;
+}
+
+.costado {
+    display: inline
+}
+
+.descripcion {
+    margin-left: 430px;
+    display: inline;
+}
+
+#pie {
+    background-color: rgba(193, 92, 59, 0.792);
+    text-align: center;
+    font-size: 50px;
+    color: #005677;
+
+}
+
+.link {
+    color: #005677;
+    text-decoration: none;
+}
