@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Raleway', sans-serif;
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .subtitulos {
@@ -31,17 +31,19 @@ body {
 
 #fotopersonal {
     text-align: center;
+    text-size-adjust: 50px;
 
 }
 
 #borderedondo {
+    
     border-radius: 1em;
 }
 
 #menusobremi {
     background-color: rgba(193, 92, 59, 0.792);
     text-align: center;
-    font-size: 50px;
+    font-size:25px;
     border-radius: 1em;
     color: #005677;
 }
@@ -65,14 +67,14 @@ body {
 }
 
 .descripcion {
-    margin-left: 430px;
+    margin-left: 190px;
     display: inline;
 }
 
 #pie {
     background-color: rgba(193, 92, 59, 0.792);
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     color: #005677;
 
 }
